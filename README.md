@@ -1,0 +1,1 @@
+Very basic script to enable for various API calls to RMM server. Done as proof of concept to myself, and stopped as the process of migrating to a new server with API breaking changes was about to be underway.
